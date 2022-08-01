@@ -1,4 +1,4 @@
-body{
-    background: pink;
-    color:  black 
+body{  
+    /*background: blue green;*/
+    background-image: linear-gradient(to right, red , yellow);
 }
