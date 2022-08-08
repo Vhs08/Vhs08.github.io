@@ -1,7 +1,9 @@
 body{  
     /*background: purple red;*/
     background-image: linear-gradient(to right, red , yellow);
-    
+    font-family: roboto;
+    font-size: x-large;
+    text-align: center; 
 }
 
 img{
