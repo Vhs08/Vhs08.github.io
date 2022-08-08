@@ -1,5 +1,8 @@
 body{  
-    /*background: blue green;*/
     background-image: linear-gradient(to right, red , yellow);
     
+}
+
+img{
+     width: 320px;
 }
