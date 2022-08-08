@@ -10,6 +10,6 @@ img{
      width: 320px;
 }
 
-img:hover {
+img:hover
     transform: scalex(-1)
 }
