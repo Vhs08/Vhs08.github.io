@@ -1,6 +1,8 @@
 body{  
     /*background: purple red;*/
-    background-image: linear-gradient(to right, red , yellow);
+    background-image: linear-gradient( to right, rgb(124, 10, 10),  black);
+
+    color: red;
     font-family: roboto;
     font-size: x-large;
     text-align: center; 
@@ -10,6 +12,6 @@ img{
      width: 320px;
 }
 
-img:hover
+img:hover{
     transform: scalex(-1)
 }
